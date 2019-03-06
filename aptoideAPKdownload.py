@@ -1,10 +1,4 @@
 import requests
-import json
-import sys
-import time
-import calendar
-import argparse
-import urllib
 from tqdm import tqdm
 import math
 from urllib.parse import urlparse
