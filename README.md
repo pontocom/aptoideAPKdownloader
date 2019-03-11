@@ -4,7 +4,9 @@ Tool that can be used to download APKs from the [Aptoide](www.aptoide.com) app s
 APKs from the store that are recorded on a file, or it can download directly an APK using its MD5.
 
 On the [Aptoide store](https://en.aptoide.com/) select the application id (MD5) of the APK that you wish to download, 
-that can be found on the end  of the page, under the "**Detailed Information**" link.
+that can be found on the end  of the page, under the "**Detailed Information**" link (check the image bellow).
+
+![aptoide screenshot](aptoide.png "Aptoide Screenshot")
 
 You can build an file with a list of app_ids (MD5) to be downloaded in order for our tool to use!
 
